@@ -1,0 +1,5 @@
+"Pair","n","Median_Diff","LOA_95","lower_LOA_CI","upper_LOA_CI","Width"
+"Nematode-extracted DNA vs Mass proportion",142,-0.002665588,"[-0.1509, 0.09]","[-0.1841, -0.0853]","[0.0765, 0.1619]",0.2409
+"Nematode-extracted DNA vs Morphological identification",142,-0.0190972665,"[-0.2115, 0.0813]","[-0.3059, -0.1596]","[0.0579, 0.1363]",0.2928
+"eDNA metabarcoding vs Mass proportion",142,-0.006074641,"[-0.1857, 0.2223]","[-0.2152, -0.1232]","[0.1696, 0.2791]",0.408
+"eDNA metabarcoding vs Morphological identification",142,-0.0213701705,"[-0.3187, 0.2068]","[-0.4316, -0.1733]","[0.154, 0.2451]",0.5254

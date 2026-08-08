@@ -1,0 +1,53 @@
+Sample ID	p
+eDNA vs. MI relative abu.	3.09E-04
+Nem. DNA vs. MI relative abu.	0.00005
+eDNA vs. Mass proportion	6.65E-04
+Nem. DNA vs. Mass proportion	0.00005
+eDNA vs. MI relative abu.	0.35374
+Nem. DNA vs. MI relative abu.	0.00486
+eDNA vs. Mass proportion	0.42569
+Nem. DNA vs. Mass proportion	2.23E-04
+eDNA vs. MI relative abu.	0.18436
+Nem. DNA vs. MI relative abu.	0.03193
+eDNA vs. Mass proportion	0.64988
+Nem. DNA vs. Mass proportion	0.00372
+eDNA vs. MI relative abu.	0.23781
+Nem. DNA vs. MI relative abu.	0.7746
+eDNA vs. Mass proportion	0.70926
+Nem. DNA vs. Mass proportion	0.43322
+eDNA vs. MI relative abu.	0.59944
+Nem. DNA vs. MI relative abu.	0.0995
+eDNA vs. Mass proportion	0.83137
+Nem. DNA vs. Mass proportion	0.20533
+eDNA vs. MI relative abu.	0.08876
+Nem. DNA vs. MI relative abu.	0.0078
+eDNA vs. MI relative abu.	0.03598
+Nem. DNA vs. MI relative abu.	0.54488
+eDNA vs. MI relative abu.	0.00687
+Nem. DNA vs. MI relative abu.	0.0026
+eDNA vs. MI relative abu.	8.45E-04
+Nem. DNA vs. MI relative abu.	0.00005
+eDNA vs. MI relative abu.	0.26656
+Nem. DNA vs. MI relative abu.	0.05188
+eDNA vs. MI relative abu.	0.0192
+Nem. DNA vs. MI relative abu.	0.00168
+eDNA vs. MI relative abu.	0.05655
+Nem. DNA vs. MI relative abu.	0.68976
+eDNA vs. MI relative abu.	8.21E-04
+Nem. DNA vs. MI relative abu.	0.04131
+eDNA vs. MI relative abu.	0.47443
+Nem. DNA vs. MI relative abu.	0.00273
+eDNA vs. MI relative abu.	0.24879
+Nem. DNA vs. MI relative abu.	0.14895
+eDNA vs. MI relative abu.	0.00672
+Nem. DNA vs. MI relative abu.	0.00005
+eDNA vs. MI relative abu.	0.21621
+Nem. DNA vs. MI relative abu.	0.00005
+eDNA vs. MI relative abu.	0.26656
+Nem. DNA vs. MI relative abu.	0.00481
+eDNA vs. MI relative abu.	0.01351
+Nem. DNA vs. MI relative abu.	0.00587
+eDNA vs. MI relative abu.	0.05889
+Nem. DNA vs. MI relative abu.	0.95251
+eDNA vs. MI relative abu.	0.00005
+Nem. DNA vs. MI relative abu.	2.83E-04
