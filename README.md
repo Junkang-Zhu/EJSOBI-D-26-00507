@@ -12,7 +12,7 @@ This repository contains the supplementary data and code for:
 | `2 Processed_Data/` | Processed community data for statistical analyses |
 | `3 Code/` | R scripts for data processing and statistical analyses |
 
-Detailed descriptions of each file are provided in the `README.txt` file within each folder.
+Detailed descriptions of each file are provided in the `README.txt` file.
 
 ---
 
