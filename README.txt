@@ -1,6 +1,6 @@
 Supplementary Materials for:
 
-Mass proportion as a new perspective for interpreting DNA‑based nematode community profiles
+DNA-based nematode community profiles reflect composition by taxon mass rather than abundance
 
 Zhu et al.
 
